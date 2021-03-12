@@ -1,9 +1,10 @@
-# Burble ~ Ongoing
-A React-Based Simple Movie Search WebApp
+# Burble (Ongoing)
+A React-Based Simple Movie Search WebApp.
+burble-5c404.web.app/
 
 ## Description
-A React movie app built following [Florin Pop's React Movie app](https://youtu.be/sZ0bZGfg_m4).
-It uses reactBootstrap for buttons and forms, use theMovieDb api for movie info and search functionalities.
+A React movie app built following [Florin Pop's React Movie app](https://youtu.be/sZ0bZGfg_m4) tutorial adding new features.
+It uses reactBootstrap for buttons and forms, use theMovieDb api for movie info and search functionalities. A link to th
 
 Improvements include :
 - Link to Github repo.
