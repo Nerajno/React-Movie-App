@@ -1,6 +1,6 @@
 # Burble (Ongoing)
-A React-Based Simple Movie Search WebApp.
-[Burble](burble-5c404.web.app/)
+A React-Based Simple Movie Search WebApp ~
+[Burble](burble-5c404.web.app/).
 
 ## Description
 A React movie app built following [Florin Pop's React Movie app](https://youtu.be/sZ0bZGfg_m4) tutorial adding new features.
