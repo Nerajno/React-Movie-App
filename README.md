@@ -4,9 +4,7 @@ A React-Based NetFlix-Themed Movie Search WebApp ~(Ongoing)
 
 ## Description
 A React movie app built following [Florin Pop's React Movie app](https://youtu.be/sZ0bZGfg_m4) tutorial adding new features.
-It uses reactBootstrap for buttons and forms, use theMovieDb api for movie info and search functionalities. A link to th
-
-Improvements include :
+It uses reactBootstrap for buttons and forms, use theMovieDb api for movie info and search functionalities. Improvements include :
 - Link to Github repo.
 - Sticky navbar.
 - A sort movies feature.
