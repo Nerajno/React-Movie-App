@@ -1,5 +1,5 @@
 # Burble (Ongoing)
-A React-Based Simple Movie Search WebApp ~
+A React-Based NetFlix-Themed Movie Search WebApp ~(Ongoing)
 [Burble](burble-5c404.web.app/).
 
 ## Description
